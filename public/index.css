@@ -1,0 +1,11 @@
+#download {
+  position: absolute;
+  top: 6%;
+  left: 8%;
+  font-weight: bold;
+  color: blue;
+  padding: 0.2rem 0.8rem;
+  background-color: rgb(241, 241, 241);
+  border-radius: 15px;
+  border: 1px solid black;
+}

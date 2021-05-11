@@ -1,0 +1,15 @@
+.StaticbarChart {
+  max-width: 80vw;
+  max-height: 80vh;
+
+  margin: auto;
+  margin-bottom: 150px;
+}
+
+.StaticTitle {
+  position: relative;
+  margin-top: 100px;
+  background: -webkit-linear-gradient(rgb(209, 209, 209), rgb(34, 34, 34));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

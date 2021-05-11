@@ -1,0 +1,14 @@
+.barChart {
+  max-width: 80vw;
+  max-height: 80vh;
+
+  margin: auto;
+}
+
+.title {
+  position: relative;
+  margin-top: 20px;
+  background: -webkit-linear-gradient(rgb(209, 209, 209), rgb(34, 34, 34));
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
